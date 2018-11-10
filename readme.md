@@ -1,0 +1,1 @@
+This is a boilerplate application using Meteor and React. It has user accounts and routing. 
